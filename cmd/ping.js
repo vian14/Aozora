@@ -13,6 +13,6 @@ exports.conf = {
 
 exports.help = {
   name: "ping",
-  description: "Get a speed ping",
+  description: "Get a speed ping response",
   usage: "ping"
 };
