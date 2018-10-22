@@ -4,7 +4,7 @@ exports.run = (bot, msg, params) => {
 
   var invite = new Discord.RichEmbed()
 
-          .addField("__**" + "INVITE LINK: " + "**__", "https://discord.gg/YjDWNxk", true)
+          .addField("__**" + "INVITE LINK: " + "**__", "https://discord.gg/9sU8d7w", true)
           .addField("__**" + "Bot Invite Link: " + "**__", "https://discordapp.com/oauth2/authorize?client_id=447617398384754716&permissions=8&scope=bot", false)
 
 
