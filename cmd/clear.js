@@ -20,7 +20,7 @@ exports.conf = {
   enabled: true,
   guildOnly: false,
   aliases: ['purge', 'delete'],
-  permLevel: 3
+  permLevel: 2
 };
 
 exports.help = {
