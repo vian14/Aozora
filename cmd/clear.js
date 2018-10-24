@@ -19,7 +19,7 @@ exports.run = (bot, msg, params) => {
 exports.conf = {
   enabled: true,
   guildOnly: false,
-  aliases: ['purge', 'delete'],
+  aliases: ['purge', 'delete', 'c'],
   permLevel: 2
 };
 
