@@ -25,7 +25,6 @@ var rules2 = new Discord.RichEmbed()
         .setColor("0xFF0000")
 
 
-        .setFooter("EXAMPLE FOOTER")
 
 
 
