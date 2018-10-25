@@ -7,8 +7,6 @@
 
 ## Credits
 
-- Ben Wall - Main developer
-- Alen Kalac - Code tester
-- James Broadberry - Code tester
+-TheSpiel14
 
 
