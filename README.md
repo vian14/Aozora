@@ -6,10 +6,10 @@
 - Once that is done run the bot by typing node index into console
 
 ##Permission Role
-Lv4: Founder
-Lv3: Admin
-Lv2: Moderator
-Lv0: Everyone
+- Lv4: Founder
+- Lv3: Admin
+- Lv2: Moderator
+- Lv0: Everyone
 
 ### Credits
 
