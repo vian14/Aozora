@@ -5,7 +5,13 @@
 - Add the bots discord token and bots ID into the settings file found in "SettingsConfig"
 - Once that is done run the bot by typing node index into console
 
-## Credits
+##Permission Role
+Lv4: Founder
+Lv3: Admin
+Lv2: Moderator
+Lv0: Everyone
+
+### Credits
 
 -TheSpiel14
 
