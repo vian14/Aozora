@@ -4,7 +4,6 @@ exports.run = (bot, msg, params) => {
 
   var invite = new Discord.RichEmbed()
 
-          .addField("__**" + "INVITE LINK: " + "**__", "https://discord.gg/9sU8d7w || https://discord.chat/aozora || https://discordbots.org/servers/419339473780867076", true)
           .addField("__**" + "Bot Invite Link: " + "**__", "https://discordapp.com/oauth2/authorize?client_id=447617398384754716&permissions=8&scope=bot", false)
 
 
@@ -23,6 +22,6 @@ exports.conf = {
 
 exports.help = {
   name: "invite",
-  description: "Get the invite link for help server",
+  description: "Get the bot invite link",
   usage: "invite"
 };
