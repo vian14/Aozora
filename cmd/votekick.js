@@ -63,7 +63,7 @@ exports.conf = {
   enabled: true,
   guildOnly: false,
   aliases: ['vkick'],
-  permLevel: 2
+  permLevel: 8
 };
 
 exports.help = {
